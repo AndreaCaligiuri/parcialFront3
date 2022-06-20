@@ -1,0 +1,27 @@
+.cab {
+  background-color: purple;
+  color: white;
+}
+
+.contador {
+  background-color: white;
+  color: black;
+  font-weight: bolder;
+}
+
+.foto {      
+  align-self: center;  
+}
+
+.btn {
+  background-color: purple;
+  color: white;
+  font-weight: bolder;
+  border: none;
+  border-radius: 8px;
+}
+
+.btn:disabled{
+  background-color: rgb(180, 180, 180);
+  color: rgb(80, 80, 80);
+}

@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "producto": {
+            "nombre": "Zapatillas Nike Revolution 6 Next Nature",
+            "descripcion": "Suma más y más kilómetros con tus Zapatillas Nike Revolution 6 Next Nature, que aportan amortiguación y confort a cada paso que des. Su capellada transpirable y suela diseñada por computadora para una mejor tracción son ideales hasta para los corredores más exigentes.",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI06OFyB99Is3j8O1ofCZsTjDCGrXXIV31LQ&usqp=CAU"
+        },
+        "stock": 5
+    },
+    {
+        "id": "2",
+        "producto": {
+            "nombre": "Zapatillas Puma Shuffle",
+            "descripcion": "Las zapatillas Puma Shuffle ADP están confeccionadas en materiales sintéticos. De caña baja, con ajuste personalizado gracias al sistema de cordones, sus perforaciones le dan un estilo urbano que se fusiona con la inserción del logo PUMA N°1 y PUMA N°2 para que camines la calle de la ciudad con un calzado sofisticado.",
+            "foto": "data:image/jpeg;base64,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"
+        },
+        "stock": 1
+    },
+    {
+        "id": "3",
+        "producto": {
+            "nombre": "Zapatillas Adidas Coreracer",
+            "descripcion": "Urbanas, livianas y frescas, las Zapatillas adidas Coreracer están pensadas para cumplir con las demandas de los corredores más exigentes. Su suela tiene un estabilizador de talón y su capellada es transpirable para mantener el confort que mereces durante todo tu trayecto.",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBbHILJbsZzx_kVwjLzYUFHgQ_jCKe11QnYvXy_gvhh1xQdAmbvxevh-RsdgtbWaTZv7U&usqp=CAU"
+        },
+        "stock": 3
+    }
+]
